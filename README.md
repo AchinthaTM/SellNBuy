@@ -17,7 +17,7 @@ PAF Assignment
 
 *Step 4-  After import the project, right click on it select 'Maven ->Update Project'.
 
-
+*Step 5-  Open XAMPP Control Panel and start the Apache and MySQL services.
 
 *Step 6-  Click on admin button of the MySQL service and it will open phpmyadmin.
 
