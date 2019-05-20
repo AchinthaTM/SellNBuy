@@ -63,6 +63,7 @@ PAF Assignment
     "id": 5
 }
 
+
 	4.Update Customer
 	Url- http://localhost:8080/customers/customer
 	Method- PUT
@@ -76,6 +77,7 @@ PAF Assignment
     "phone": "0718002536",
     "id": 5
 }
+
 
 	5.Delete Customer
 	Url- http://localhost:8080/customers/customer/1
@@ -104,6 +106,7 @@ PAF Assignment
     "sid": 457
 }
 
+
 	4.Update Order
 	Url- http://localhost:8080/orders/order/
 	Method- PUT
@@ -116,6 +119,7 @@ PAF Assignment
     "cid": 257,
     "sid": 457
 }
+
 
 
 	5.Delete Order
@@ -145,6 +149,7 @@ PAF Assignment
     "sid": 525
 }
 
+
 	4.Update Food
 	Url- http://localhost:8080/foods/food/
 	Method- PUT
@@ -156,6 +161,7 @@ PAF Assignment
     "fdiscount": 3,
     "sid": 525
 }
+
 
 
 	5.Delete Food
@@ -186,6 +192,7 @@ PAF Assignment
     "cardid": 275
 }
 
+
 	4.Update Payment
 	Url- http://localhost:8080/payments/payment/
 	Method- PUT
@@ -197,6 +204,7 @@ PAF Assignment
     "oid": 124,
     "cardid": 275
 }
+
 
 
 	5.Delete Payment
@@ -228,6 +236,7 @@ PAF Assignment
     "amount": "500"
 }
 
+
 	4.Update Delivery
 	Url- http://localhost:8080/deliveries/delivery/
 	Method- PUT
@@ -241,6 +250,7 @@ PAF Assignment
     "noOfItem": "2",
     "amount": "500"
 }
+
 
 
 	5.Delete Delivery
