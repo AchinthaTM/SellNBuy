@@ -5,7 +5,9 @@ PAF Assignment
 
 *Reequired tools
 
-
+	1.Spring tool suite (https://spring.io/tools)
+	2.Postman (https://www.getpostman.com/tools)
+	3.XAMPP (https://www.apachefriends.org/download.html)
 
 *Step 1-  Download project zip file from the github and unzip it.
 
