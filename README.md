@@ -21,7 +21,7 @@ PAF Assignment
 
 *Step 6-  Click on admin button of the MySQL service and it will open phpmyadmin.
 
-*Step 7-  Select the SQL tab and execute the each following statements.
+*Step 7-  Select the SQL tab of the phpmyadmin and execute the each following statements.
 
 	 create database sellnbuy; -- Create the new database
 	 create user 'admin'@'localhost' identified by 'admin'; -- Creates the user
