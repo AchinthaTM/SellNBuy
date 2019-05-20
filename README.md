@@ -31,7 +31,8 @@ PAF Assignment
 
 *Step 11-Check the Web Services.
 
-#Customer Service
+#Customer Service#
+
 	1.GET All Customers
 	Url- http://localhost:8080/customers/customer
 	Method- GET
@@ -72,7 +73,8 @@ PAF Assignment
 	Url- http://localhost:8080/customers/customer/1
 	Method- DELETE
 
-#Order Service
+#Order Service#
+
 	1.GET All Orders
 	Url- http://localhost:8080/orders/order/
 	Method- GET
@@ -113,7 +115,8 @@ PAF Assignment
 	Method- DELETE
 
 
-#Food Service
+#Food Service#
+
 	1.GET All Foods
 	Url- http://localhost:8080/foods/food/
 	Method- GET
@@ -153,7 +156,8 @@ PAF Assignment
 
 
 
-#Payment Service
+#Payment Service#
+
 	1.GET All Payments
 	Url- http://localhost:8080/payments/payment/
 	Method- GET
@@ -192,7 +196,8 @@ PAF Assignment
 	Method- DELETE
 
 
-#Delivery Service
+#Delivery Service#
+
 	1.GET All Deliveries
 	Url- http://localhost:8080/deliveries/delivery/
 	Method- GET
