@@ -60,7 +60,8 @@ PAF Assignment
     "address": "Kaduwela",
     "email": "dilushan@gmail.com",
     "phone": "768974123",
-    "id": 5}
+    "id": 5
+    }
 
 	4.Update Customer
 	Url- http://localhost:8080/customers/customer
