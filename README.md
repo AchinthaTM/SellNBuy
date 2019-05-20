@@ -75,7 +75,7 @@ PAF Assignment
     "email": "dilushan@gmail.com",
     "phone": "0718002536",
     "id": 5
-}
+    }
 
 
 	5.Delete Customer
@@ -103,7 +103,7 @@ PAF Assignment
     "fid": 456,
     "cid": 257,
     "sid": 457
-}
+    }
 
 
 	4.Update Order
@@ -117,7 +117,7 @@ PAF Assignment
     "fid": 456,
     "cid": 257,
     "sid": 457
-}
+    }
 
 
 
@@ -146,7 +146,7 @@ PAF Assignment
     "fprize": 50,
     "fdiscount": 2,
     "sid": 525
-}
+    }
 
 
 	4.Update Food
@@ -159,7 +159,7 @@ PAF Assignment
     "fprize": 70,
     "fdiscount": 3,
     "sid": 525
-}
+    }
 
 
 
@@ -189,7 +189,7 @@ PAF Assignment
     "pstatus": "Paid",
     "oid": 124,
     "cardid": 275
-}
+    }
 
 
 	4.Update Payment
@@ -202,7 +202,7 @@ PAF Assignment
     "pstatus": "Unaid",
     "oid": 124,
     "cardid": 275
-}
+    }
 
 
 
@@ -233,7 +233,7 @@ PAF Assignment
     "itemName": "Rice",
     "noOfItem": "2",
     "amount": "500"
-}
+    }
 
 
 	4.Update Delivery
@@ -248,7 +248,7 @@ PAF Assignment
     "itemName": "Rice",
     "noOfItem": "2",
     "amount": "500"
-}
+    }
 
 
 
