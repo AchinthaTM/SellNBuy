@@ -33,7 +33,7 @@ PAF Assignment
 
 *Step 10-Go to Headers field and add following keys and values.
 	
-	Key		  Value
+	  Key		  Value
       Accept         application/json
       Content-Type   application/json
 
