@@ -19,7 +19,7 @@ PAF Assignment
 
 *Step 5-  Open XAMPP Control Panel and start the Apache and MySQL services.
 
-*Step 6-  Click on admin button of the MySQL service and it will open phpmyadmin.
+
 
 *Step 7-  Select the SQL tab of the phpmyadmin and execute the each following statements.
 
