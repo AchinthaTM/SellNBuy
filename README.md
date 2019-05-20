@@ -9,11 +9,17 @@ PAF Assignment
 	3.XAMPP (https://www.apachefriends.org/download.html)
 
 *Step 1-  Download project zip file from the github and unzip it.
+
 *Step 2-  Open spring tool suite.
+
 *Step 3-  Go to 'File ->Open Projects From File System ->Directory' and select the file 'SellNBuy' inside the unziped folder then click on 'Finish'.
+
 *Step 4-  After import the project, right click on it select 'Maven ->Update Project'.
+
 *Step 5-  Open XAMPP Control Panel and start the Apache and MySQL services.
+
 *Step 6-  Click on admin button of the MySQL service and it will open phpmyadmin.
+
 *Step 7-  Select the SQL tab and execute the each following statements.
 
 	 create database sellnbuy; -- Create the new database
@@ -23,6 +29,7 @@ PAF Assignment
 *Step 8- Go to the Sprint Tool Suite, right click on the project 'Run As ->Spring Boot App'.
 
 *Step 9- Open Postman.
+
 *Step 10-Go to Headers field and add following keys and values.
 	
 	Key		  Value
